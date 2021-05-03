@@ -1,0 +1,33 @@
+.main{
+  border: 3px Solid gray;
+  box-shadow: 2px 2px 5px gray;
+  width: 180px;
+  margin-left: 40%;
+  height: 235px;
+
+}
+.but{
+  width: 100%;
+}
+input{
+  width: 96%;
+  height: 30px;
+  background-color:white;
+  color: black;
+}
+input:hover{
+  background-color : white;
+  color: black;
+
+}
+button{
+height: 40px;
+width: 40px;
+border-radius: 10px;
+background: darkblue;
+color:white;
+}
+button:hover{
+  background-color: white;
+  color: black;
+}
